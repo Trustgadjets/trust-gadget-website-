@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trust Gadgets - Phone Sales & Repairs</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Trust Gadgets</h1>
+      <p>Your trusted partner for phones and phone repairs in Kampala!</p>
+    </div>
+  </header>
+
+  <section id="about">
+    <div class="container">
+      <h2>About Us</h2>
+      <p>Welcome to <strong>Trust Gadgets</strong>, located in Kampala, William Street, Mutasa Building. We specialize in selling high-quality phones and providing reliable phone repair services. Visit us today for all your mobile needs!</p>
+    </div>
+  </section>
+
+  <section id="services">
+    <div class="container">
+      <h2>Our Services</h2>
+      <ul>
+        <li>Phone Sales (New & Used)</li>
+        <li>Phone Repairs (Screen Replacement, Battery Replacement, etc.)</li>
+        <li>Accessories (Chargers, Earphones, Cases, etc.)</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="contact">
+    <div class="container">
+      <h2>Contact Us</h2>
+      <p>We’d love to hear from you! Reach out to us for inquiries or visit our store.</p>
+      <ul>
+        <li><strong>Phone:</strong> <a href="tel:+256743308203">+256 743 308203</a></li>
+        <li><strong>Email:</strong> <a href="mailto:rashazaqakampa@gmail.com">rashazaqakampa@gmail.com</a></li>
+        <li><strong>Address:</strong> Kampala, William Street, Mutasa Building</li>
+      </ul>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Trust Gadgets. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>h
